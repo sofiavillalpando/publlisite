@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-10-19T13:56:47-07:00",
-            "date_modified": "2022-10-19T14:37:29-07:00"
+            "date_modified": "2022-10-19T14:41:21-07:00"
         },
         {
             "id": "https://sofiavillalpando.github.io/publlisite/about-me.html",
@@ -45,13 +45,14 @@
             "title": "Life of a mixed student: The Journey of a Chicana Student at UCLA",
             "summary": "Welcome! My name is Sofia Villalpando and I am a Mexican-American (Chicana) student who attends UCLA. For more information about me, you can visit my About Me page or my LinkedIn profile!",
             "content_html": "<p>Welcome! My name is Sofia Villalpando and I am a Mexican-American (Chicana) student who attends UCLA. For more information about me, you can visit my <strong>About Me</strong> page or my <strong><a href=\"https://www.linkedin.com/in/sofia-villalpando-b21318231/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn profile</a></strong>! </p>\n<h3 class=\"align-center\"><em><strong>Background</strong></em></h3>\n<p> </p>\n<p> </p>\n<h3 class=\"align-center\"><em><strong><span class=\"JsGRdQ\">My experience at UCLA as a Hispanic-Serving Institution</span></strong></em></h3>\n<p> </p>",
+            "image": "https://sofiavillalpando.github.io/publlisite/media/posts/1/Screen-Shot-2022-10-19-at-2.49.00-PM.png",
             "author": {
                 "name": "Sofia Villalpando"
             },
             "tags": [
             ],
             "date_published": "2022-10-19T13:26:02-07:00",
-            "date_modified": "2022-10-19T13:59:37-07:00"
+            "date_modified": "2022-10-19T14:50:09-07:00"
         }
     ]
 }
