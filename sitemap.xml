@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sofiavillalpando.github.io/publlisite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sofiavillalpando.github.io/publlisite/</loc>
+</url>
+<url>
+<loc>https://sofiavillalpando.github.io/publlisite/about-me.html</loc>
+<lastmod>2022-10-19T14:06:04-07:00</lastmod>
+<image:image>
+<image:loc>https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_5021.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_6715.PNG</image:loc>
+<image:title><![CDATA[Headshot of Sofia ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sofiavillalpando.github.io/publlisite/life-of-a-mixed-student-the-journey-of-a-chicana-student-at-ucla.html</loc>
+<lastmod>2022-10-19T13:59:37-07:00</lastmod>
+</url>
+<url>
+<loc>https://sofiavillalpando.github.io/publlisite/resources.html</loc>
+<lastmod>2022-10-19T14:06:13-07:00</lastmod>
+</url>
+</urlset>

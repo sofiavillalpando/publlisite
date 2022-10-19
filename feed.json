@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Journey of a Chicana Student at UCLA",
+    "description": "",
+    "home_page_url": "https://sofiavillalpando.github.io/publlisite",
+    "feed_url": "https://sofiavillalpando.github.io/publlisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sofia Villalpando"
+    },
+    "items": [
+        {
+            "id": "https://sofiavillalpando.github.io/publlisite/life-of-a-mixed-student-the-journey-of-a-chicana-student-at-ucla.html",
+            "url": "https://sofiavillalpando.github.io/publlisite/life-of-a-mixed-student-the-journey-of-a-chicana-student-at-ucla.html",
+            "title": "Life of a mixed student: The Journey of a Chicana Student at UCLA",
+            "summary": "Welcome! My name is Sofia Villalpando and I am a Mexican-American (Chicana) student who attends UCLA. For more information about me, you can visit my About Me page or my LinkedIn profile!",
+            "content_html": "<p>Welcome! My name is Sofia Villalpando and I am a Mexican-American (Chicana) student who attends UCLA. For more information about me, you can visit my <strong>About Me</strong> page or my <strong><a href=\"https://www.linkedin.com/in/sofia-villalpando-b21318231/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn profile</a></strong>! </p>\n<h3 class=\"align-center\"><em><strong>Background</strong></em></h3>\n<p> </p>\n<p> </p>\n<h3 class=\"align-center\"><em><strong><span class=\"JsGRdQ\">My experience at UCLA as a Hispanic-Serving Institution</span></strong></em></h3>\n<p> </p>",
+            "author": {
+                "name": "Sofia Villalpando"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T13:26:02-07:00",
+            "date_modified": "2022-10-19T13:59:37-07:00"
+        }
+    ]
+}
