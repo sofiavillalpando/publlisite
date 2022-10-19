@@ -10,6 +10,35 @@
     },
     "items": [
         {
+            "id": "https://sofiavillalpando.github.io/publlisite/resources.html",
+            "url": "https://sofiavillalpando.github.io/publlisite/resources.html",
+            "title": "Resources ",
+            "summary": "For any mixed student struggling with their identity and perceived fraudulence: Resources at UCLA Bruin Resource Center: https://brc.ucla.edu UCLA Diversity, Equity, and Inclusion Center: https://equity.ucla.edu Mixed Student Union: https://community.ucla.edu/studentorg/1237 Resources in General Mixed Teens in America: https://www.parents.com/parenting/better-parenting/teenagers/what-its-like-to-grow-up-biracial-in-america-today/ The Mixed Experience in American: https://www.vox.com/first-person/21734156/kamala-harris-mixed-race-biracial-multiracial Resources to&hellip;",
+            "content_html": "<h2>For any mixed student struggling with their identity and perceived fraudulence:</h2>\n<h3 class=\"align-center\">Resources at UCLA</h3>\n<ul>\n<li class=\"align-left\"><span class=\"JsGRdQ\">Bruin Resource Center: <a href=\"https://brc.ucla.edu\">https://brc.ucla.edu</a></span></li>\n<li class=\"align-left\"><span class=\"JsGRdQ\">UCLA Diversity, Equity, and Inclusion Center: <a href=\"https://equity.ucla.edu\">https://equity.ucla.edu</a></span></li>\n<li class=\"align-left\">Mixed Student Union: <a href=\"https://community.ucla.edu/studentorg/1237\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">https://community.ucla.edu/studentorg/1237</a><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span></li>\n</ul>\n<h3 class=\"align-center\"><span class=\"JsGRdQ\">Resources in General</span></h3>\n<ul>\n<li><span class=\"JsGRdQ\">Mixed Teens in America: <a href=\"https://www.parents.com/parenting/better-parenting/teenagers/what-its-like-to-grow-up-biracial-in-america-today/\">https://www.parents.com/parenting/better-parenting/teenagers/what-its-like-to-grow-up-biracial-in-america-today/</a></span></li>\n<li class=\"align-left\"><span class=\"JsGRdQ\">The Mixed Experience in American: <a href=\"https://www.vox.com/first-person/21734156/kamala-harris-mixed-race-biracial-multiracial\">https://www.vox.com/first-person/21734156/kamala-harris-mixed-race-biracial-multiracial</a> </span></li>\n<li class=\"align-left\"><span class=\"JsGRdQ\">Resources to explore identity questions: <a href=\"https://socialworklicensemap.com/blog/resources-explore-multicultural-identity-mixed-race-families/#first-person-perspectives\">https://socialworklicensemap.com/blog/resources-explore-multicultural-identity-mixed-race-families/#first-person-perspectives</a> </span><br><br><br><br></li>\n</ul>",
+            "author": {
+                "name": "Sofia Villalpando"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T13:56:47-07:00",
+            "date_modified": "2022-10-19T14:25:30-07:00"
+        },
+        {
+            "id": "https://sofiavillalpando.github.io/publlisite/about-me.html",
+            "url": "https://sofiavillalpando.github.io/publlisite/about-me.html",
+            "title": "About Me",
+            "summary": "Sofia Villalpando Hi! Thank you so much for visiting my site and reading my story. I truly appreciate your time. I am a 19 year old junior at the University of California, Los Angeles and I am from Oceanside, California. I am majoring in Statistics&hellip;",
+            "content_html": "<h2>Sofia Villalpando</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_6715.PNG\" sizes=\"100vw\" srcset=\"https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-xs.PNG 300w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-sm.PNG 480w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-md.PNG 768w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-lg.PNG 1024w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-xl.PNG 1360w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-2xl.PNG 1600w\"  alt=\"Headshot of Sofia \" width=\"191\" height=\"288\"></figure>\n<p>Hi! Thank you so much for visiting my site and reading my story. I truly appreciate your time. I am a 19 year old junior at the University of California, Los Angeles and I am from Oceanside, California. I am majoring in Statistics and minoring in Digital Humanities while being actively involved as a Bruin Ambassador, Learning Assistant, a Data Journalist for Bruin Sports Analytics, and participated in the UCLA Triathlon team for two years. </p>",
+            "image": "https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_5021.JPG",
+            "author": {
+                "name": "Sofia Villalpando"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T13:41:15-07:00",
+            "date_modified": "2022-10-19T14:25:23-07:00"
+        },
+        {
             "id": "https://sofiavillalpando.github.io/publlisite/life-of-a-mixed-student-the-journey-of-a-chicana-student-at-ucla.html",
             "url": "https://sofiavillalpando.github.io/publlisite/life-of-a-mixed-student-the-journey-of-a-chicana-student-at-ucla.html",
             "title": "Life of a mixed student: The Journey of a Chicana Student at UCLA",
