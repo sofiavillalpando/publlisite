@@ -22,14 +22,14 @@
             "tags": [
             ],
             "date_published": "2022-10-19T13:56:47-07:00",
-            "date_modified": "2022-10-21T13:28:55-07:00"
+            "date_modified": "2022-10-21T16:49:03-07:00"
         },
         {
             "id": "https://sofiavillalpando.github.io/publlisite/about-me.html",
             "url": "https://sofiavillalpando.github.io/publlisite/about-me.html",
             "title": "About Me",
             "summary": "Sofia Villalpando Hi! Thank you so much for visiting my site and reading my story. I truly appreciate your time. I am a 19 year old junior at the University of California, Los Angeles and I am from Oceanside, California. I am majoring in Statistics&hellip;",
-            "content_html": "<h2 class=\"align-center\">Sofia Villalpando</h2>\n<figure class=\"post__image\">                                                    <img loading=\"lazy\"  src=\"https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_6715.PNG\" sizes=\"100vw\" srcset=\"https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-xs.PNG 300w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-sm.PNG 480w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-md.PNG 768w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-lg.PNG 1024w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-xl.PNG 1360w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-2xl.PNG 1600w\"  alt=\"Headshot of Sofia \" width=\"191\" height=\"288\"></figure>\n<p>Hi! Thank you so much for visiting my site and reading my story. I truly appreciate your time. I am a 19 year old junior at the University of California, Los Angeles and I am from Oceanside, California. I am majoring in Statistics and minoring in Digital Humanities while being actively involved as a Bruin Ambassador, Learning Assistant, a Data Journalist for Bruin Sports Analytics, and participation with the UCLA Triathlon team for two years. </p>",
+            "content_html": "<h2 class=\"align-left\">Sofia Villalpando</h2>\n<figure class=\"post__image align-left\"><img loading=\"lazy\"  src=\"https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_6715.PNG\" sizes=\"100vw\" srcset=\"https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-xs.PNG 300w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-sm.PNG 480w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-md.PNG 768w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-lg.PNG 1024w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-xl.PNG 1360w ,https://sofiavillalpando.github.io/publlisite/media/posts/2/responsive/IMG_6715-2xl.PNG 1600w\"  alt=\"Headshot of Sofia \" width=\"191\" height=\"288\"></figure>\n<p>Hi! Thank you so much for visiting my site and reading my story. I truly appreciate your time. I am a 19 year old junior at the University of California, Los Angeles and I am from Oceanside, California. I am majoring in Statistics and minoring in Digital Humanities while being actively involved as a Bruin Ambassador, Learning Assistant, a Data Journalist for Bruin Sports Analytics, and participation with the UCLA Triathlon team for two years. </p>",
             "image": "https://sofiavillalpando.github.io/publlisite/media/posts/2/IMG_5021.JPG",
             "author": {
                 "name": "Sofia Villalpando"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2022-10-19T13:41:15-07:00",
-            "date_modified": "2022-10-21T16:46:05-07:00"
+            "date_modified": "2022-10-21T16:48:33-07:00"
         },
         {
             "id": "https://sofiavillalpando.github.io/publlisite/life-of-a-mixed-student-the-journey-of-a-chicana-student-at-ucla.html",
